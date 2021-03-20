@@ -53,7 +53,7 @@ p {
   text-align: center;
 }
 
-.education {
+._education {
   text-align: center;
 }
 
@@ -785,52 +785,52 @@ body.mobile-nav-active #mobile-nav-toggle {
   top: 4px;
 }
 
-/* Team Section
+/* education Section
 --------------------------------*/
-#team {
+#education {
   background: #fff;
   padding: 80px 0 60px 0;
 }
 
-#team .member {
+#education .member {
   text-align: center;
   margin-bottom: 20px;
 }
 
-#team .member .pic {
+#education .member .pic {
   margin-bottom: 15px;
   overflow: hidden;
   height: 260px;
 }
 
-#team .member .pic img {
+#education .member .pic img {
   max-width: 100%;
 }
 
-#team .member h4 {
+#education .member h4 {
   font-weight: 700;
   margin-bottom: 2px;
 }
 
-#team .member span {
+#education .member span {
   font-style: italic;
   display: block;
   font-size: 13px;
 }
 
-#team .member .social {
+#education .member .social {
   margin-top: 15px;
 }
 
-#team .member .social a {
+#education .member .social a {
   color: #b3b3b3;
 }
 
-#team .member .social a:hover {
+#education .member .social a:hover {
   color: #03c4eb;
 }
 
-#team .member .social i {
+#education .member .social i {
   font-size: 18px;
   margin: 0 2px;
 }
