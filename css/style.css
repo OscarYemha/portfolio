@@ -34,7 +34,6 @@ p {
 .letter {
   font-family: "Italianno", cursive;
   font-size: 45px;
-  margin: 0 auto;
   color: white;
 }
 
@@ -267,7 +266,7 @@ h6 {
   color: #fff;
 }
 
-#header #logo img {
+#header #logo p {
   padding: 0;
   margin: 0;
   max-height: 50px;
